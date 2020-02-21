@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>636504899953-er8lbih0lptl2qbaeanercl0vq2644gq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.636504899953-er8lbih0lptl2qbaeanercl0vq2644gq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB7UuyHr2dQiArAZn26wWrhaBE0KmjwyUk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>636504899953</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.ridesharerental</string>
+	<key>PROJECT_ID</key>
+	<string>ridesharerental-3df60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ridesharerental-3df60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:636504899953:ios:e470eeff083ff1103236d0</string>
+	<key>DATABASE_URL</key>
+	<string>https://ridesharerental-3df60.firebaseio.com</string>
+</dict>
+</plist>
